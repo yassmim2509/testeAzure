@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(135, 161, 224);
+}
+.j{
+    font-size: 150%;
+    background-color:  rgb(53, 93, 215);
+    margin-top: 50px;
+    color:  rgb(53, 93, 215);
+}
+h1{ 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    margin-left: 25%;
+    margin-top: 5%;
+    font-size: 40px;
+}
+.img{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.p{
+    margin-left: -99%;
+    background-color:  rgb(53, 93, 215);
+    color:  rgb(53, 93, 215);
+    font-size: 150%;
+    margin-top: 10%;
+
+}
