@@ -4,9 +4,8 @@ body{
     background-color: rgb(135, 161, 224);
 }
 .j{
-    font-size: 150%;
+    font-size: 120%;
     background-color:  rgb(53, 93, 215);
-    margin-top: 50px;
     color:  rgb(53, 93, 215);
 }
 h1{ 
@@ -18,13 +17,13 @@ h1{
 }
 .img{
     margin-left: 40%;
-    margin-top: 5%;
+    margin-top: 2%;
 }
 .p{
-    margin-left: -99%;
+    margin-left: -80%;
     background-color:  rgb(53, 93, 215);
     color:  rgb(53, 93, 215);
-    font-size: 150%;
-    margin-top: 10%;
+    font-size: 120%;
+    margin-top: 3%;
 
 }
